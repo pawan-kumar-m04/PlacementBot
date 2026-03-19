@@ -20,3 +20,6 @@ An intelligent assistant designed to help Computer Science students prepare for 
 3. Add your Google Gemini API key to a `.env` file (`GEMINI_API_KEY=your_key`).
 4. Place any reference PDFs inside the `data/` directory.
 5. Run the application: `streamlit run app.py`
+
+## Deployment
+https://placementbot-7jtssahjx2mtmwxzqmomai.streamlit.app/
